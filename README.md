@@ -12,7 +12,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [How to Run the App](#how-to-run-the-app)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
