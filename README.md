@@ -1,6 +1,6 @@
 # SmartSquare
 
-**SmartSquare** is a mobile application designed to empower parents by providing them with real-time access to their children's academic activities, including attendance, marks, and other important updates. Built using Flutter, Dart, JavaScript, and Google Firebase, SmartSquare ensures seamless communication between schools and parents.
+**SmartSquare** is a mobile application designed to empower parents by providing them with real-time access to their children's academic activities, including attendance, marks, and other important updates. Built using Flutter, Dart, JavaScript, and Google Firebase. SmartSquare ensures seamless communication between schools and parents.
 
 ---
 
